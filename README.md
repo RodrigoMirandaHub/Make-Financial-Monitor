@@ -39,6 +39,5 @@ Coming from N8N, a few real differences stood out while building this:
 
 Both HTTP calls (exchange rate API and Groq) use Make's **Retry** error handler, configured with a limited number of attempts and a delay between retries. This was tested against a real rate-limit error from the exchange rate API during development, not just configured in theory.
 
-## Screenshots
-
-*(add final canvas screenshot and Salesforce Lead / Gmail output screenshots here)*
+https://www.linkedin.com/in/rodrigo-h-miranda/
+https://github.com/RodrigoMirandaHub
