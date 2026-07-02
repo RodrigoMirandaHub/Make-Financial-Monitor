@@ -3,7 +3,7 @@
 <img width="1687" height="877" alt="Screenshot_43" src="https://github.com/user-attachments/assets/91352110-2542-4fd8-8036-6f7cb3ba66b3" />
 
 
-An automation built in [Make](https://www.make.com) (formerly Integromat) that monitors the USD/BRL exchange rate on a schedule, branches on real business logic, and takes different actions depending on the result — including generating an AI-written recommendation with an LLM.
+An automation built in [Make](https://www.make.com) (formerly Integromat) that monitors the USD/BRL exchange rate on a schedule, branches on real business logic, and takes different actions depending on the result — including generating an AI-written recommendation with an LLM. 
 
 Built in preparation for an Automation Manager (No-code/Low-code) interview, as a way to get hands-on with Make after primarily working in N8N.
 
