@@ -6,10 +6,10 @@ Built in preparation for an Automation Manager (No-code/Low-code) interview, as 
 
 ## What it does
 
-<img width="1687" height="877" alt="Screenshot_43" src="https://github.com/user-attachments/assets/583939cc-91b9-47c7-bc11-e25eea5bae57" />
+<img width="1819" height="874" alt="Screenshot_52" src="https://github.com/user-attachments/assets/3f8e8181-39fe-4a7e-ba32-dbc5b0f7e23c" />
 
 
-1. **Schedule** — runs every 10h30 minutes
+1. **Schedule** — runs every 15 minutes
 2. **HTTP** — fetches the live USD/BRL rate from a public exchange rate API
 3. **Router** — branches on whether the rate is above or below a 5.10 threshold (a real either/or, not two parallel paths)
    - **Rate > 5.10**: calls the Groq API (LLaMA 3.3) to generate a short business recommendation, then emails it via Gmail
